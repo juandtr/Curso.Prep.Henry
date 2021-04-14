@@ -1,0 +1,13 @@
+For: El bucle for es para evaluar algo una y otra vez hasta en contrar lo que se
+esta buscando. En pocas palabras en como buscar un juguete perdido hasta encontrarlo
+
+&&:  Evalua nuestras expresiones y nos dira que es verdader, teniendo en cuenta
+que ambas expresiones sean verdaderas si una o las dos son falsas nos devolvera falso
+en pocas palabras, es como cuando nos dicen una mentira uno evalua hasta saber si es verdadero o falso lo que se esta diciendo.
+
+||: determina si una de las expresiones es verdadera, al igual que con la anterior
+lo utilizamos para decubrir donde esta la entira si es verdadera el operador (||)
+nos dira que asi lo es, de lo contraro dira que lo que nos dicen es falso
+
+!: este signo nos dice que hara lo cntrario a lo se le pase, en pocas palabras
+es como cuando tienes un hij y no sigue tus ordenes 
